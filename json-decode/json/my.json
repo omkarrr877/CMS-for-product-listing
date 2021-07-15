@@ -1,0 +1,27 @@
+   [ {
+    "id": "36",
+    "productname": "iphone",
+    "category": "smartphones",
+    "subcategory": "Electronics",
+    "qty": "1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem",
+    "image": "iphone.jpg"
+    },
+  {
+    "id": "37",
+    "productname": "Oppo",
+    "category": "smartphones",
+    "subcategory": "Electronics",
+    "qty": "12",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem",
+    "image": "oppo.jpg"
+  },
+  {
+    "id": "38",
+    "productname": "Redmi",
+    "category": "smartphones",
+    "subcategory": "Electronics",
+    "qty": "222",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem",
+    "image": "redmi.jpg"
+  }]
